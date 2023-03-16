@@ -1,6 +1,6 @@
 # Saraha
 
-Described as an ‘honesty’ app, Sarahah is an anonymous messaging app. Once a user registers, they can share a chat conversation, link or publish it publicly on the web, and anyone with that link can respond directly to the user with anonymous messages. The recipient has no way of knowing who the sender is.
+Described as an honesty app, Sarahah is an anonymous messaging app. Once a user registers, they can share a chat conversation, link or publish it publicly on the web, and anyone with that link can respond directly to the user with anonymous messages. The recipient has no way of knowing who the sender is.
 
 # DEMO
 
